@@ -1,0 +1,21 @@
+﻿Построение начато 21.04.2016 16:41:51.
+     1>Проект "c:\Users\Z500\documents\visual studio 2010\Projects\task07\task07\task07.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\task07.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt task07.cpp
+         task07.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\z500\documents\visual studio 2010\Projects\task07\Debug\task07.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\task07.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\z500\documents\visual studio 2010\Projects\task07\Debug\task07.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\z500\documents\visual studio 2010\Projects\task07\Debug\task07.lib" /MACHINE:X86 Debug\task07.obj
+         LINK : не найден или не выполнена сборка c:\users\z500\documents\visual studio 2010\Projects\task07\Debug\task07.exe при последней инкрементной компоновке; выполняется полная компоновка
+         task07.vcxproj -> c:\users\z500\documents\visual studio 2010\Projects\task07\Debug\task07.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"c:\users\z500\documents\visual studio 2010\Projects\task07\Debug\task07.exe;#1" /manifest Debug\task07.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\task07.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\task07.lastbuildstate".
+     1>Построение проекта "c:\Users\Z500\documents\visual studio 2010\Projects\task07\task07\task07.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.71
